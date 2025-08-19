@@ -1,9 +1,18 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
+import styled from "styled-components"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+
+const BlogLink = styled(Link)`
+  box-shadow: none;
+  text-decoration: none;
+`
+const BlogSpan = styled.span`
+  font-weight: bold;
+  color: rgba(37, 82, 246, 1);
+`
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -18,6 +27,7 @@ const BlogIndex = ({ data, location }) => {
           directory you specified for the "gatsby-source-filesystem" plugin in
           gatsby-config.js).
         </p>
+        <Link to="/page-2">Go to page 2</Link>
       </Layout>
     )
   }
@@ -38,9 +48,9 @@ const BlogIndex = ({ data, location }) => {
               >
                 <header>
                   <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
+                    <BlogLink to={post.fields.slug} itemProp="url">
+                      <BlogSpan itemProp="headline">{title}</BlogSpan>
+                    </BlogLink>
                   </h2>
                   <small>{post.frontmatter.date}</small>
                 </header>
