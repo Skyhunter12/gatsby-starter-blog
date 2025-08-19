@@ -9,13 +9,12 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Skyhunter's Space tech blog`,
     author: {
       name: `Akash Bagali`,
       summary: `Who lives and works in Vijaypura, Karnataka building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A space enthusiastic blog, demonstrating how space is evolving in and around India.`,
     social: {
       instagram: `akashbagali`,
     },
@@ -119,8 +118,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `Gatsby`,
+        name: `Skyhunter's space Tech Blog`,
+        short_name: `SkyhunterBlog`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
