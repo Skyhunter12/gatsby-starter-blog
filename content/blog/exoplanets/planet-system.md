@@ -1,5 +1,5 @@
 ---
-An exoplanet is any planet beyond our solar system. Most of them orbit other stars, but some free-floating exoplanets, called rogue planets, are untethered to any star. We’ve confirmed nearly 6,000 exoplanets, out of the billions that we believe exist.
+An exoplanet is any planet beyond our solar system. Most of them orbit other stars, but some free-floating exoplanets, called rogue planets, are untethered to any star. NASA confirmed nearly 6,000 exoplanets, out of the billions that we believe exist.
 ---
 
 
