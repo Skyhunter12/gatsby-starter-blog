@@ -5,6 +5,7 @@ const Layout = ({ location, title, children }) => {
   
   const rootPath = typeof __PATH_PREFIX__ !== "undefined" ? `${__PATH_PREFIX__}/` : "/"
   const isRootPath = location && location.pathname === rootPath
+  title = title?.replace(/\//g, "")
   let header
 
   if (isRootPath) {
