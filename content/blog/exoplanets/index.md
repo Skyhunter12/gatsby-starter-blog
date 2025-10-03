@@ -1,5 +1,7 @@
 ---
-An exoplanet is any planet beyond our solar system. Most of them orbit other stars, but some free-floating exoplanets, called rogue planets, are untethered to any star. NASA confirmed nearly 6,000 exoplanets, out of the billions that we believe exist.
+title: 🪐Reach the unreachable (Exoplanets)🪐
+date: "2025-09-16T20:00:00.121Z"
+description: "An exoplanet is any planet beyond our solar system. Most of them orbit other stars, but some free-floating exoplanets, called rogue planets, are untethered to any star. NASA confirmed nearly 6,000 exoplanets, out of the billions that we believe exist."
 ---
 
 

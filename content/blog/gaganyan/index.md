@@ -1,5 +1,5 @@
 ---
-title: "🚀 Gaganyaan Mission: India's Journey to Space"
+title: "🚀 Gaganyaan Mission: India's Journey to Space 👨‍🚀"
 date: "2025-09-30T12:00:00.000Z"
 description: "India's first human spaceflight mission - sending 3 astronauts to space for 3 days by 2027"
 ---

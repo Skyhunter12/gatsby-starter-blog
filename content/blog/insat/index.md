@@ -1,5 +1,7 @@
 ---
-INSAT is the largest domestic satellite system in the Asia-Pacific region, offering services like direct-to-home television, weather forecasting, disaster warning, and supporting telecommunications and broadcasting
+title: 📡 INSAT communication satellites 🛰️
+date: "2025-09-30T20:00:00.121Z"
+description: "INSAT is the largest domestic satellite system in the Asia-Pacific region, offering services like direct-to-home television, weather forecasting, disaster warning, and supporting telecommunications and broadcasting"
 ---
 
 ## 🛰️What is INSAT program? ##

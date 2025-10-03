@@ -1,5 +1,7 @@
 ---
-GSAT-series is India's largest and most advanced High Throughput Satellite (HTS), launched to provide high-speed broadband services across the country. As India's heaviest communication satellite at 5,854 kg, it introduced Ka-band technology to India. All comm satellites operate with a 10-15 years mission life. GSAT series plays a key role in the Digital India Programme, boosting broadband connectivity to rural and inaccessible areas through projects like BharatNet.
+title: 📡 GSAT communication satellites 🛰️
+date: "2025-09-23T20:00:00.121Z"
+description: "GSAT-series is India's largest and most advanced High Throughput Satellite (HTS), launched to provide high-speed broadband services across the country. As India's heaviest communication satellite at 5,854 kg, it introduced Ka-band technology to India. All comm satellites operate with a 10-15 years mission life. GSAT series plays a key role in the Digital India Programme, boosting broadband connectivity to rural and inaccessible areas through projects like BharatNet."
 ---
 
 ## 🛰️ What is the GSAT-series Program?
